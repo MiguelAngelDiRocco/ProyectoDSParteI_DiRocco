@@ -4,7 +4,7 @@
 **Institución:** *Coderhouse*  
 **Alumno:** Miguel Ángel Di Rocco  
 **Entrega:** Primera entrega 
-**Enlace al Notebook de Google Colab:**: https://colab.research.google.com/drive/1tGKhAuiy1sJj75-1cYxfk3ry1wI5LxqM?usp=sharing
+**Enlace al Notebook de Google Colab:** https://colab.research.google.com/drive/1tGKhAuiy1sJj75-1cYxfk3ry1wI5LxqM?usp=sharing
 
 ---
 
