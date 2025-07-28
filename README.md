@@ -1,16 +1,16 @@
-# 🌍 Proyecto Final - Análisis de Datos Climáticos Globales  
+# 🌍 Análisis de Datos Climáticos Globales  
 
-**Carrera:** Data Science / Data Analytics  
-**Institución:** *[Tu institución aquí]*  
+**Carrera:** Data Science I
+**Institución:** *Coderhouse*  
 **Alumno:** Miguel Ángel Di Rocco  
-**Entrega:** Proyecto Exploratorio (EDA)  
+**Entrega:** Primera entrega 
 
 ---
 
 ## 📌 Descripción general
 
 Este proyecto analiza patrones climáticos globales a partir de un dataset con más de **75.000 registros** y **41 variables** meteorológicas y de calidad del aire.  
-El objetivo principal es **explorar relaciones entre temperatura, humedad, presión atmosférica, velocidad del viento e índices de contaminación (PM2.5)** para entender fenómenos ambientales y su impacto en la salud pública.  
+El objetivo principal es **explorar relaciones entre temperatura, humedad, velocidad del viento e índices de contaminación (PM2.5)** para entender fenómenos ambientales y su impacto en la salud pública.  
 
 El proyecto incluye:  
 - Limpieza y preparación de datos (detección y tratamiento de outliers).  
