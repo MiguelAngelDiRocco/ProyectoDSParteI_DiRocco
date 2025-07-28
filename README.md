@@ -1,4 +1,4 @@
-# 🌍 Análisis de Datos Climáticos Globales  
+#  Análisis de Datos Climáticos Globales  
 
 **Carrera:** Data Science I
 **Institución:** *Coderhouse*  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción general
+##  Descripción general
 
 Este proyecto analiza patrones climáticos globales a partir de un dataset con más de **75.000 registros** y **41 variables** meteorológicas y de calidad del aire.  
 El objetivo principal es **explorar relaciones entre temperatura, humedad, velocidad del viento e índices de contaminación (PM2.5)** para entender fenómenos ambientales y su impacto en la salud pública.  
@@ -21,14 +21,14 @@ El proyecto incluye:
 
 ---
 
-## 📊 ¿Qué contiene este repositorio?
+##  ¿Qué contiene este repositorio?
 
 - `ProyectoDSParteI_DiRocco.ipynb` → Notebook principal con el análisis exploratorio y visualizaciones.  
 - `README.md` → Este archivo con la explicación general del proyecto.  
 
 ---
 
-## 📈 Dataset
+##  Dataset
 
 **Fuente:** [Global Weather Repository - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)  
 **Registros:** 75.000+  
