@@ -51,4 +51,4 @@ Miguel Ángel Di Rocco
 
 > ✔️ EDA completo y documentado.  
 > 📊 Insights generados a partir de análisis exploratorio.  
-> ✔️ Proyecto listo para entrega.  
+> ✔️ Proyecto aprobado.  
